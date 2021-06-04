@@ -1,1 +1,2 @@
 Message
+Este es un archivo de texto para pruebas.
