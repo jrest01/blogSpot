@@ -9,5 +9,6 @@ Un blog para el curso de Git de Platzi.
 * El sentido de las buenas prácticas
 * Trucos
 * Creado por el TeamPlatzi
+* Ejemplos en Windows, Linux y Mac
 
 Como recordatorio: **Este Readme.MD se diseñó unicamente con fines educativos**, si llegas hasta acá no te lo tomes en serio.
